@@ -1,19 +1,12 @@
 [FIREPLAY_NEWS]
-VERSION=3.0.0
-TITLE=FirePlay Evolution
+VERSION=3.0
+TITLE=FirePlay Launcher 3.0
 DATE=2026-10-22
-DESCRIPTION=Descubre las novedades de esta actualización.
-
-[CHANGE]
-Boton de noticias
-
-[CHANGE]
-Nuevo sistema de verificacion de actualizaciones.
-
-[CHANGE]
-Mejoras en la interfaz del launcher.
-
-[CHANGE]
-Correccion de errores.
-
+DESCRIPTION=La experiencia FirePlay con biblioteca local y multiples perfiles.
+IMAGE=
+CHANGE=Biblioteca local de juegos con opciones para añadir, editar y organizar juegos.
+CHANGE=Perfiles independientes con bibliotecas y favoritos propios.
+CHANGE=Temas visuales personalizables.
+CHANGE=Musica de fondo y efectos de sonido opcionales.
+CHANGE=Busqueda, filtros, juegos recientes y copias de seguridad.
 [END_VERSION]

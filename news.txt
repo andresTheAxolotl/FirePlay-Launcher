@@ -1,0 +1,19 @@
+[FIREPLAY_NEWS]
+VERSION=3.0.0
+TITLE=FirePlay Evolution
+DATE=2026-10-22
+DESCRIPTION=Descubre las novedades de esta actualización.
+
+[CHANGE]
+Boton de noticias
+
+[CHANGE]
+Nuevo sistema de verificacion de actualizaciones.
+
+[CHANGE]
+Mejoras en la interfaz del launcher.
+
+[CHANGE]
+Correccion de errores.
+
+[END_VERSION]

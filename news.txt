@@ -10,3 +10,21 @@ CHANGE=Temas visuales personalizables.
 CHANGE=Musica de fondo y efectos de sonido opcionales.
 CHANGE=Busqueda, filtros, juegos recientes y copias de seguridad.
 [END_VERSION]
+VERSION=4.0
+TITLE=FirePlay Launcher 4.0
+DATE=2026-10-23
+DESCRIPTION=Una experiencia mas moderna, flexible y personalizable, con temas avanzados y nuevas herramientas para tu biblioteca.
+IMAGE=
+CHANGE=Sistema de temas avanzados mediante archivos JSON, con opciones de colores, fuentes, distribucion, tamanos y espaciado.
+CHANGE=12 temas incluidos: Violet Night, Ocean Deep, Ember, Forest, Midnight, Cyber Neon, Sunset Bloom, Arctic Frost, Gold Luxury, Sakura Soft, Mono Terminal y Light Cloud.
+CHANGE=Efectos visuales mejorados, con iluminacion glow, sombras y transiciones de hover mas suaves.
+CHANGE=Opciones para activar o desactivar el glow y reducir el movimiento de las animaciones.
+CHANGE=Nueva seccion de Estadisticas para consultar lanzamientos y juegos mas jugados.
+CHANGE=Boton Aleatorio para elegir un juego, con atajo de teclado Ctrl+R.
+CHANGE=Controles de musica en la barra lateral: anterior, reproducir o pausar y siguiente.
+CHANGE=Opciones de lanzamiento por juego, incluidos argumentos y carpeta de trabajo.
+CHANGE=Opcion para elegir un wallpaper desde los ajustes.
+CHANGE=Mas configuraciones, como columnas de la biblioteca, efectos visuales y sonido al iniciar.
+CHANGE=Acceso a la carpeta de temas desde los ajustes para facilitar la personalizacion.
+CHANGE=Mejoras en la interfaz y en la personalizacion general del launcher.
+[END_VERSION]
